@@ -1,0 +1,15 @@
+# Ignore macOS system files
+.DS_Store
+Library/
+
+# Ignore any hidden files or folders
+.*
+
+# Ignore virtual environments
+venv/
+
+# Ignore log files
+*.log
+
+# Ignore unnecessary files
+*.tmp
